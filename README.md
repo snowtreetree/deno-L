@@ -12,5 +12,5 @@
 
 ```js
 // deno run --allow-net index.js
-// deno run --allow-net --allow-read --config ./tsconfig.app.json index.ts 
+// deno run --allow-net --allow-read --config ./tsconfig.json app.ts 
 ```

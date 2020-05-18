@@ -1,0 +1,26 @@
+{
+  "name": "deno-l",
+  "version": "1.0.0",
+  "description": "deno,learn",
+  "main": "app.ts",
+  "scripts": {
+    "test": "deno run --allow-net --allow-read --config ./tsconfig.json app.ts "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowtreetree/deno-L.git"
+  },
+  "keywords": [
+    "deno"
+  ],
+  "author": "xuelinz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowtreetree/deno-L/issues"
+  },
+  "homepage": "https://github.com/snowtreetree/deno-L#readme",
+  "devDependencies": {
+    "typescript": "^3.9.2",
+    "typescript-deno-plugin": "^1.28.0"
+  }
+}

@@ -11,5 +11,6 @@
 ## 项目启动
 
 ```js
-deno run --allow-net index.js
+// deno run --allow-net index.js
+// deno run --allow-net --allow-read --config ./tsconfig.app.json index.ts 
 ```
